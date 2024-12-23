@@ -3,10 +3,10 @@
 This repository contains a project for sales forecasting using various machine learning models, including LSTM (Long Short-Term Memory) and stacking models. The project is implemented in a Jupyter Notebook and uses a dataset of sales data.
 
 ## Project Structure
-.gitignore
-Final_sales.ipynb
-my_lstm_model.h5
-train.csv
+.gitignore<br>
+Final_sales.ipynb<br>
+my_lstm_model.h5<br>
+train.csv<br>
 
 
 ### 🔗 Dataset
