@@ -89,6 +89,3 @@ The models are evaluated using the following metrics:
 
 5. Open the Jupyter Notebook:
     jupyter notebook Final_sales.ipynb
-
-## License
-This project is licensed under the MIT License.
